@@ -1,0 +1,8 @@
+prefix=/home/pi/catkin_ws/install
+
+Name: drone_control
+Description: Description of drone_control
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
